@@ -1,0 +1,57 @@
+# -------------------------
+# Python Cache & Bytecode
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# C extensions
+*.so
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+../.venv/
+venv/
+.venv/
+env/
+
+# -------------------------
+# IDE / Editor Files
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# Mac / Windows Trash
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Build / Distribution
+# -------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Audio Files (Your Synth Recordings)
+# -------------------------
+rec_*.wav
+recording_*.wav
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Tkinter dialog temp files
+# -------------------------
+*.tmp

@@ -1,0 +1,82 @@
+{
+  "bpm": 130,
+  "loop": true,
+  "length": 8.0,
+  "tracks": [
+    {
+      "comment": "--- DRUMS (NOISE WAVE) ---",
+      "wave": "noise",
+      "notes": [
+        {"time": 0.0, "note": "C1", "dur": 0.1, "vol": 0.8},
+        {"time": 0.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+        {"time": 1.0, "note": "C1", "dur": 0.15, "vol": 0.9},
+        {"time": 1.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+        {"time": 2.0, "note": "C1", "dur": 0.1, "vol": 0.8},
+        {"time": 2.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+        {"time": 3.0, "note": "C1", "dur": 0.15, "vol": 0.9},
+        {"time": 3.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+
+        {"time": 4.0, "note": "C1", "dur": 0.1, "vol": 0.8},
+        {"time": 4.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+        {"time": 5.0, "note": "C1", "dur": 0.15, "vol": 0.9},
+        {"time": 5.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+        {"time": 6.0, "note": "C1", "dur": 0.1, "vol": 0.8},
+        {"time": 6.5, "note": "C4", "dur": 0.05, "vol": 0.4},
+        {"time": 7.0, "note": "C1", "dur": 0.1, "vol": 0.9},
+        {"time": 7.25, "note": "C1", "dur": 0.1, "vol": 0.7},
+        {"time": 7.5, "note": "C4", "dur": 0.1, "vol": 0.6}
+      ]
+    },
+    {
+      "comment": "--- BASSLINE (SAWTOOTH) ---",
+      "wave": "sawtooth",
+      "notes": [
+        {"time": 0.0, "note": "C2", "dur": 0.2, "vol": 0.7},
+        {"time": 0.25, "note": "C2", "dur": 0.2, "vol": 0.6},
+        {"time": 0.75, "note": "C2", "dur": 0.2, "vol": 0.7},
+
+        {"time": 1.0, "note": "D#2", "dur": 0.2, "vol": 0.7},
+        {"time": 1.25, "note": "D#2", "dur": 0.2, "vol": 0.6},
+        {"time": 1.75, "note": "D#2", "dur": 0.2, "vol": 0.7},
+
+        {"time": 2.0, "note": "F2", "dur": 0.2, "vol": 0.7},
+        {"time": 2.25, "note": "F2", "dur": 0.2, "vol": 0.6},
+        {"time": 2.75, "note": "G#2", "dur": 0.2, "vol": 0.7},
+
+        {"time": 3.0, "note": "A#2", "dur": 0.4, "vol": 0.7},
+        {"time": 3.5, "note": "G2", "dur": 0.4, "vol": 0.7},
+
+        {"time": 4.0, "note": "C2", "dur": 0.2, "vol": 0.7},
+        {"time": 4.25, "note": "C2", "dur": 0.2, "vol": 0.6},
+        {"time": 4.75, "note": "C3", "dur": 0.2, "vol": 0.5}
+      ]
+    },
+    {
+      "comment": "--- MELODY (BELL) ---",
+      "wave": "bell",
+      "notes": [
+        {"time": 0.0, "note": "C5", "dur": 1.5, "vol": 0.8},
+        {"time": 1.5, "note": "D#5", "dur": 0.5, "vol": 0.8},
+        {"time": 2.0, "note": "G5", "dur": 1.0, "vol": 0.8},
+        {"time": 3.0, "note": "F5", "dur": 0.5, "vol": 0.8},
+        {"time": 3.5, "note": "D#5", "dur": 0.5, "vol": 0.8},
+
+        {"time": 4.0, "note": "C5", "dur": 0.5, "vol": 0.8},
+        {"time": 4.5, "note": "D#5", "dur": 0.5, "vol": 0.8},
+        {"time": 5.0, "note": "C6", "dur": 1.0, "vol": 0.7},
+        {"time": 6.5, "note": "A#5", "dur": 0.5, "vol": 0.7},
+        {"time": 7.0, "note": "G#5", "dur": 0.5, "vol": 0.7},
+        {"time": 7.5, "note": "G5", "dur": 0.5, "vol": 0.7}
+      ]
+    },
+    {
+      "comment": "--- ATMOSPHERE (SCIFI/CRUSH) ---",
+      "wave": "scifi",
+      "notes": [
+        {"time": 0.0, "note": "C4", "dur": 4.0, "vol": 0.3},
+        {"time": 4.0, "note": "C3", "dur": 3.0, "vol": 0.4, "wave": "trance"},
+        {"time": 7.5, "note": "C2", "dur": 0.5, "vol": 0.6, "wave": "crush"}
+      ]
+    }
+  ]
+}
