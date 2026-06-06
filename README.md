@@ -1,5 +1,7 @@
 # Synth-Studio
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Synth-Studio) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Synth-Studio) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
